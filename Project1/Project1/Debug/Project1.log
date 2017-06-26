@@ -1,0 +1,4 @@
+﻿  main.c
+e:\c_project\project1\project1\main.c(6): error C2057: 应输入常量表达式
+e:\c_project\project1\project1\main.c(6): error C2466: 不能分配常量大小为 0 的数组
+e:\c_project\project1\project1\main.c(6): error C2133: “a”: 未知的大小

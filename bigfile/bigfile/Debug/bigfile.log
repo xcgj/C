@@ -1,0 +1,4 @@
+﻿  1.c
+e:\c_project\bigfile\bigfile\1.c(19): warning C4013: “memset”未定义；假设外部返回 int
+  bigfile.vcxproj -> E:\C_project\bigfile\Debug\bigfile.exe
+  bigfile.vcxproj -> E:\C_project\bigfile\Debug\bigfile.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  main.c
+e:\c_project\strlen\strlen\main.c(28): warning C4013: “atoi”未定义；假设外部返回 int
+  strlen.vcxproj -> E:\C_project\strlen\Debug\strlen.exe
+  strlen.vcxproj -> E:\C_project\strlen\Debug\strlen.pdb (Full PDB)

@@ -1,0 +1,7 @@
+﻿  main1.c
+  正在生成代码
+e:\c_project\2017-03-09\2017-03-09\main1.c(43): warning C4172: 返回局部变量或临时变量的地址: c
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  2017-03-09.vcxproj -> E:\C_project\2017-03-09\x64\Release\2017-03-09.exe
+  2017-03-09.vcxproj -> E:\C_project\2017-03-09\x64\Release\2017-03-09.pdb (Full PDB)

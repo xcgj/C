@@ -1,0 +1,4 @@
+﻿  main1.c
+e:\c_project\2017-03-13\2017-03-13\main1.c(13): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+e:\c_project\2017-03-13\2017-03-13\main1.c(16): error C2129: 静态函数“int test2()”已声明但未定义
+  e:\c_project\2017-03-13\2017-03-13\a.h(3): note: 参见“test2”的声明

@@ -1,0 +1,4 @@
+﻿  practise.c
+e:\c_project\consoleapplication1\consoleapplication1\practise.c(674): warning C4013: “system”未定义；假设外部返回 int
+  ConsoleApplication1.vcxproj -> E:\C_project\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> E:\C_project\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)

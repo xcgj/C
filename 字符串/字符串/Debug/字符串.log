@@ -1,0 +1,5 @@
+﻿  main.c
+e:\c_project\字符串\字符串\main.c(16): warning C4013: “gets”未定义；假设外部返回 int
+e:\c_project\字符串\字符串\main.c(31): warning C4013: “atoi”未定义；假设外部返回 int
+  字符串.vcxproj -> E:\C_project\字符串\Debug\字符串.exe
+  字符串.vcxproj -> E:\C_project\字符串\Debug\字符串.pdb (Full PDB)

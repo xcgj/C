@@ -1,0 +1,4 @@
+﻿  main.c
+e:\c_project\rand\rand\main.c(7): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  rand.vcxproj -> E:\C_project\rand\Debug\rand.exe
+  rand.vcxproj -> E:\C_project\rand\Debug\rand.pdb (Full PDB)

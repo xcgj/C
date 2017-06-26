@@ -1,0 +1,10 @@
+﻿  main1.c
+main1.c(10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+main1.c(10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+  正在生成代码
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  2017-03-09.vcxproj -> E:\C_project\2017-03-09\Release\2017-03-09.exe
+  2017-03-09.vcxproj -> E:\C_project\2017-03-09\Release\2017-03-09.pdb (Full PDB)

@@ -1,0 +1,10 @@
+﻿  数组1.cpp
+e:\c_project\struct\struct\数组1.cpp(13): error C2065: “p”: 未声明的标识符
+e:\c_project\struct\struct\数组1.cpp(14): error C2065: “p”: 未声明的标识符
+e:\c_project\struct\struct\数组1.cpp(15): error C2065: “p”: 未声明的标识符
+e:\c_project\struct\struct\数组1.cpp(16): error C2065: “p”: 未声明的标识符
+e:\c_project\struct\struct\数组1.cpp(17): error C2065: “p”: 未声明的标识符
+e:\c_project\struct\struct\数组1.cpp(18): error C2065: “p”: 未声明的标识符
+e:\c_project\struct\struct\数组1.cpp(18): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  e:\c_project\struct\struct\数组1.cpp(18): note: 占位符和其参数预计 5 可变参数，但提供的却是 1 参数
+  e:\c_project\struct\struct\数组1.cpp(18): note: 缺失的可变参数 2 为格式字符串“%-2d”所需

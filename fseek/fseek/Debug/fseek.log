@@ -1,0 +1,4 @@
+﻿  fseek.c
+e:\c_project\fseek\fseek\fseek.c(8): warning C4013: “memset”未定义；假设外部返回 int
+  fseek.vcxproj -> E:\C_project\fseek\Debug\fseek.exe
+  fseek.vcxproj -> E:\C_project\fseek\Debug\fseek.pdb (Full PDB)

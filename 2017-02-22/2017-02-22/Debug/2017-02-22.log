@@ -1,0 +1,5 @@
+﻿  main.c
+e:\c_project\2017-02-22\2017-02-22\main.c(45): warning C4013: “memset”未定义；假设外部返回 int
+e:\c_project\2017-02-22\2017-02-22\main.c(76): warning C4047: “初始化”:“int *”与“int”的间接级别不同
+  2017-02-22.vcxproj -> E:\C_project\2017-02-22\Debug\2017-02-22.exe
+  2017-02-22.vcxproj -> E:\C_project\2017-02-22\Debug\2017-02-22.pdb (Full PDB)

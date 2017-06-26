@@ -1,0 +1,5 @@
+﻿  hw5.c
+e:\c_project\2017-03-04\2017-03-04\hw5.c(18): warning C4716: “inverse”: 必须返回一个值
+e:\c_project\2017-03-04\2017-03-04\hw5.c(35): warning C4716: “adjust”: 必须返回一个值
+  2017-03-04.vcxproj -> E:\C_project\2017-03-04\Debug\2017-03-04.exe
+  2017-03-04.vcxproj -> E:\C_project\2017-03-04\Debug\2017-03-04.pdb (Full PDB)

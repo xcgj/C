@@ -1,0 +1,13 @@
+﻿  main.c
+e:\c_project\2017.02.17\2017.02.17\main.c(14): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int **”
+e:\c_project\2017.02.17\2017.02.17\main.c(14): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+e:\c_project\2017.02.17\2017.02.17\main.c(15): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+e:\c_project\2017.02.17\2017.02.17\main.c(16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“int *”
+e:\c_project\2017.02.17\2017.02.17\main.c(17): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int **”
+e:\c_project\2017.02.17\2017.02.17\main.c(17): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int ***”
+e:\c_project\2017.02.17\2017.02.17\main.c(17): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“int ****”
+e:\c_project\2017.02.17\2017.02.17\main.c(18): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int ***”
+e:\c_project\2017.02.17\2017.02.17\main.c(18): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int **”
+e:\c_project\2017.02.17\2017.02.17\main.c(18): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“int *”
+  2017.02.17.vcxproj -> E:\C_project\2017.02.17\Debug\2017.02.17.exe
+  2017.02.17.vcxproj -> E:\C_project\2017.02.17\Debug\2017.02.17.pdb (Full PDB)

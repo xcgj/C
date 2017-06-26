@@ -1,0 +1,11 @@
+﻿  1.c
+e:\c_project\2017-03-14\2017-03-14\1.c(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(356,5): error MSB6006: “CL.exe”已退出，代码为 2。
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\c_project\2017-03-14\2017-03-14\1.c(16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\c_project\2017-03-14\2017-03-14\1.c(34): error C2057: 应输入常量表达式
+e:\c_project\2017-03-14\2017-03-14\1.c(34): error C2466: 不能分配常量大小为 0 的数组
+e:\c_project\2017-03-14\2017-03-14\1.c(34): error C2133: “s”: 未知的大小
+e:\c_project\2017-03-14\2017-03-14\1.c(33): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明

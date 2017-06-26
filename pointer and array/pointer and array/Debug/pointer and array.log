@@ -1,0 +1,4 @@
+﻿  pointer and dimention-array.c
+e:\c_project\pointer and array\pointer and array\pointer and dimention-array.c(10): warning C4047: “=”:“int **”与“int (*)[3]”的间接级别不同
+  pointer and array.vcxproj -> E:\C_project\pointer and array\Debug\pointer and array.exe
+  pointer and array.vcxproj -> E:\C_project\pointer and array\Debug\pointer and array.pdb (Full PDB)

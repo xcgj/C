@@ -1,0 +1,5 @@
+﻿  main.c
+e:\c_project\2017-02-28-2\2017-02-28-2\main.c(13): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+e:\c_project\2017-02-28-2\2017-02-28-2\main.c(18): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+  2017-02-28-2.vcxproj -> E:\C_project\2017-02-28-2\Debug\2017-02-28-2.exe
+  2017-02-28-2.vcxproj -> E:\C_project\2017-02-28-2\Debug\2017-02-28-2.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  源.c
+e:\c_project\2017-03-03file\2017-03-03file\源.c(30): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\c_project\2017-03-03file\2017-03-03file\源.c(30): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  2017-03-03file.vcxproj -> E:\C_project\2017-03-03file\Debug\2017-03-03file.exe
+  2017-03-03file.vcxproj -> E:\C_project\2017-03-03file\Debug\2017-03-03file.pdb (Full PDB)

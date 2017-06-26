@@ -1,0 +1,10 @@
+﻿  debug.c
+e:\c_project\debug\debug\debug.c(4): warning C4047: “函数”:“const char *”与“std::size_t”的间接级别不同
+e:\c_project\debug\debug\debug.c(4): warning C4024: “puts”: 形参和实参 1 的类型不同
+e:\c_project\debug\debug\debug.c(14): warning C4013: “malloc”未定义；假设外部返回 int
+e:\c_project\debug\debug\debug.c(14): warning C4047: “初始化”:“void *”与“int”的间接级别不同
+e:\c_project\debug\debug\debug.c(18): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“std::size_t”
+  e:\c_project\debug\debug\debug.c(18): note: 请考虑在格式字符串中使用“%zd”
+e:\c_project\debug\debug\debug.c(16): warning C4101: “pa”: 未引用的局部变量
+  DEBUG.vcxproj -> E:\C_project\DEBUG\x64\Debug\DEBUG.exe
+  DEBUG.vcxproj -> E:\C_project\DEBUG\x64\Debug\DEBUG.pdb (Full PDB)

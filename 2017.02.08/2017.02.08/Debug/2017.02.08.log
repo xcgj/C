@@ -1,0 +1,13 @@
+﻿  main.c
+e:\c_project\2017.02.08\2017.02.08\main.c(12): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 5 拥有了类型“int *”
+e:\c_project\2017.02.08\2017.02.08\main.c(12): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 6 拥有了类型“int *”
+e:\c_project\2017.02.08\2017.02.08\main.c(15): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+e:\c_project\2017.02.08\2017.02.08\main.c(15): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+e:\c_project\2017.02.08\2017.02.08\main.c(15): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“char *”
+e:\c_project\2017.02.08\2017.02.08\main.c(15): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“char *”
+e:\c_project\2017.02.08\2017.02.08\main.c(16): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+e:\c_project\2017.02.08\2017.02.08\main.c(16): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int *”
+e:\c_project\2017.02.08\2017.02.08\main.c(16): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“int *”
+e:\c_project\2017.02.08\2017.02.08\main.c(16): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“int *”
+  2017.02.08.vcxproj -> E:\C_project\2017.02.08\Debug\2017.02.08.exe
+  2017.02.08.vcxproj -> E:\C_project\2017.02.08\Debug\2017.02.08.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  main.c
+e:\c_project\2017.02.09\2017.02.09\main.c(75): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+e:\c_project\2017.02.09\2017.02.09\main.c(88): warning C4133: “初始化”: 从“int *”到“unsigned char *”的类型不兼容
+  2017.02.09.vcxproj -> E:\C_project\2017.02.09\Debug\2017.02.09.exe
+  2017.02.09.vcxproj -> E:\C_project\2017.02.09\Debug\2017.02.09.pdb (Full PDB)
